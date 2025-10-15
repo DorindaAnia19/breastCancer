@@ -2,7 +2,7 @@
 
 This project builds a **Support Vector Machine (SVM)** model to classify breast cancer tumors as **malignant (M)** or **benign (B)** using the **Breast Cancer Wisconsin Diagnostic Dataset (WDBC)**.  
 
-The notebook walks through the **entire machine learning workflow** — from loading and exploring the dataset to training, tuning, and evaluating the model.
+The notebook walks through the **entire machine learning workflow**, from loading and exploring the dataset to training, tuning, and evaluating the model.
 
 ---
 
